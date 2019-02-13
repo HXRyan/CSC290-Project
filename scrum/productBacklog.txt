@@ -5,7 +5,7 @@
 TYPE     : USER STORY 2
 NAME     : Player Vessel movement
 OWNER    : Coco Liang
-PRIORITY : 
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
 I WANT   : to use the left and right arrow keys or A and D keys
@@ -13,9 +13,9 @@ SO THAT  : to be able to see and control a vessel
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 TYPE     : USER STORY 3
-NAME     : Player Vessel 
+NAME     : Player Vessel
 OWNER    : Coco Liang
-PRIORITY : 
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
 I WANT   : to press the space bar
@@ -24,8 +24,8 @@ SO THAT  : I can shoot projectiles northwards
 --------------------------------------------------------------------------
 TYPE     : USER STORY 3
 NAME     : Player Vessel Shooting
-OWNER    : 
-PRIORITY : 
+OWNER    :
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
 I WANT   : to press the space bar
@@ -34,28 +34,28 @@ SO THAT  : I can shoot projectiles northwards
 --------------------------------------------------------------------------
 TYPE     : USER STORY 4
 NAME     : Projectile Class
-OWNER    : 
-PRIORITY : 
+OWNER    :
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
-I WANT   : projectiles with location and sizes that will appear 
+I WANT   : projectiles with location and sizes that will appear
 SO THAT  : the vessel class can shoot projectiles
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 TYPE     : USER STORY 5
 NAME     : GUI Design
-OWNER    : 
-PRIORITY : 
+OWNER    :
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
-I WANT   : to see the game visually 
+I WANT   : to see the game visually
 SO THAT  : I can know where my vessel, projectiles, and enemies are
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 TYPE     : USER STORY 6
 NAME     : Hit Box Implementation
 OWNER    : Coco Liang
-PRIORITY : 
+PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : developer
 I WANT   : to add the hit box feature of unity to each class
@@ -65,13 +65,13 @@ SO THAT  : contact between sprites can be detected
 # COMPLETED USER STORIES/BUGS BELOW ######################################
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 1 
+TYPE     : USER STORY 1
 NAME     : Interfaces
 OWNER    : Coco Liang
 PRIORITY : 1
 ESTIMATE : February 12, 2019
 AS A     : developer
-I WANT   : Code that deisgnates the interfaces for various classes
+I WANT   : Code that designates the interfaces for various classes
 SO THAT  : I can add code to inheriet and implement the described methods
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
