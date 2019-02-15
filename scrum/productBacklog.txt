@@ -4,7 +4,7 @@
 --------------------------------------------------------------------------
 TYPE     : USER STORY 2
 NAME     : Player Vessel movement
-OWNER    : Coco Liang
+OWNER    : Owen
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
@@ -54,7 +54,7 @@ SO THAT  : I can know where my vessel, projectiles, and enemies are
 --------------------------------------------------------------------------
 TYPE     : USER STORY 6
 NAME     : Hit Box Implementation
-OWNER    : Coco Liang
+OWNER    : 
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : developer
