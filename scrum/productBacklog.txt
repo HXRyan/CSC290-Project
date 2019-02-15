@@ -2,7 +2,7 @@
 
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 2
+TYPE     : USER STORY 1
 NAME     : Player Vessel movement
 OWNER    : Owen
 PRIORITY :
@@ -12,7 +12,7 @@ I WANT   : to use the left and right arrow keys or A and D keys
 SO THAT  : to be able to see and control a vessel
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
-TYPE     : USER STORY 3
+TYPE     : USER STORY 2
 NAME     : Player Vessel
 OWNER    : Coco Liang
 PRIORITY :
@@ -34,7 +34,7 @@ SO THAT  : I can shoot projectiles northwards
 --------------------------------------------------------------------------
 TYPE     : USER STORY 4
 NAME     : Projectile Class
-OWNER    : Manik Rana
+OWNER    :
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
@@ -54,22 +54,12 @@ SO THAT  : I can know where my vessel, projectiles, and enemies are
 --------------------------------------------------------------------------
 TYPE     : USER STORY 6
 NAME     : Hit Box Implementation
-OWNER    : 
+OWNER    : Coco Liang
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : developer
 I WANT   : to add the hit box feature of unity to each class
 SO THAT  : contact between sprites can be detected
---------------------------------------------------------------------------
---------------------------------------------------------------------------
-TYPE     : USER STORY 7
-NAME     : Alien Implementation
-OWNER    : Manik Rana
-PRIORITY :
-ESTIMATE : February 12, 2019
-AS A     : user
-I WANT   : Initialize an Alien
-SO THAT  : Game has Aliens that shoot back
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 # COMPLETED USER STORIES/BUGS BELOW ######################################
