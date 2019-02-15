@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class playerxaxismovement : MonoBehaviour
 {   private Transform player;
-    
+
     // Start is called before the first frame update
 
     void Start()
@@ -19,9 +19,10 @@ public class playerxaxismovement : MonoBehaviour
         float maximum = 10.0f;
         float minimum = -10.0f;
         float direction = Input.GetAxis("Horizontal");
-        
-        if ((direction < 0 && player.position.x < minimum) || (direction > 0 && player.position.x > maximum)) 
-            direction = 0;
-        player.position += Vector3.right * direction * speed;  
+
+        if ((direction < 0 && player.position.x < minimum) ||
+        (direction > 0 && player.position.x > maximum)) 
+            direction = 0; // Do not allow the character to move across the boundary
+        player.position += Vector3.right * direction * speed;
         }
 }
