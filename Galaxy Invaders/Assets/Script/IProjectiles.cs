@@ -2,15 +2,29 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface Projectiles
+public class IProjectiles :MonoBehaviour
 {
-    int GetX();
+    protected Transform protectile;
+    protected int x, y, width, length = 0;
+    int GetX()
+    {
+        return this.x;
+    }
 
-    int GetY();
+    int GetY()
+    {
+        return this.y;
+    }
 
-    int GetWidth();
+    int GetWidth() {
+        return this.width;
+    }
+   
 
-    int GetHeight();
+    int GetLength()
+    {
+        return this.length;
+    }
 
 }
 

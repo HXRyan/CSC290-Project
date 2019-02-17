@@ -2,18 +2,35 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public interface IVessels{
+public class IVessels: MonoBehaviour{
+    protected int x, y, width, length = 0;
 
-    void Move();
+    void Move() {
+    }
 
-    void Attack();
+    void Attack()
+    {
 
-    int GetX();
+    }
 
-    int GetY();
+    int GetX()
+    {
+        return this.x;
+    }
 
-    int GetWidth();
+    int GetY()
+    {
+        return this.y;
+    }
 
-    int GetHeight();
+    int GetWidth()
+    {
+        return this.width;
+    }
+
+    int GetLength()
+    {
+        return this.length;
+    }
     
 }

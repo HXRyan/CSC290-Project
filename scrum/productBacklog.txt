@@ -54,12 +54,22 @@ SO THAT  : I can know where my vessel, projectiles, and enemies are
 --------------------------------------------------------------------------
 TYPE     : USER STORY 6
 NAME     : Hit Box Implementation
-OWNER    : Coco Liang
+OWNER    : 
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : developer
 I WANT   : to add the hit box feature of unity to each class
 SO THAT  : contact between sprites can be detected
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 7
+NAME     : HP Bar Class
+OWNER    : Coco Liang
+PRIORITY :
+ESTIMATE : February 12, 2019
+AS A     : developer
+I WANT   : to add the hit bar class to vessel/boss and obstacle classes
+SO THAT  : their hp can be seen and used for death calculation
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 # COMPLETED USER STORIES/BUGS BELOW ######################################
