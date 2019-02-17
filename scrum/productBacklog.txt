@@ -34,7 +34,7 @@ SO THAT  : I can shoot projectiles northwards
 --------------------------------------------------------------------------
 TYPE     : USER STORY 4
 NAME     : Projectile Class
-OWNER    :
+OWNER    : Manik Rana
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
@@ -60,6 +60,16 @@ ESTIMATE : February 12, 2019
 AS A     : developer
 I WANT   : to add the hit box feature of unity to each class
 SO THAT  : contact between sprites can be detected
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 7
+NAME     : Alien Implementation
+OWNER    : Manik Rana
+PRIORITY :
+ESTIMATE : February 12, 2019
+AS A     : user
+I WANT   : Initialize an Alien
+SO THAT  : Game has Aliens that shoot back
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 # COMPLETED USER STORIES/BUGS BELOW ######################################
