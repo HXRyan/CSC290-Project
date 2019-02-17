@@ -24,7 +24,7 @@ SO THAT  : I can shoot projectiles northwards
 --------------------------------------------------------------------------
 TYPE     : USER STORY 3
 NAME     : Player Vessel Shooting
-OWNER    :
+OWNER    : Haoran Xiao
 PRIORITY :
 ESTIMATE : February 12, 2019
 AS A     : user
@@ -70,6 +70,16 @@ ESTIMATE : February 12, 2019
 AS A     : user
 I WANT   : Initialize an Alien
 SO THAT  : Game has Aliens that shoot back
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 8
+NAME     : Alien movement
+OWNER    : Haoran Xiao
+PRIORITY :
+ESTIMATE : February 12, 2019
+AS A     : user
+I WANT   : designate Alien's movement
+SO THAT  : Game has Aliens that moves
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
 # COMPLETED USER STORIES/BUGS BELOW ######################################
