@@ -60,9 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\IProjectiles.cs" />
-    <Compile Include="Assets\Script\IVessels.cs" />
+    <Compile Include="Assets\Script\PlayerHealthBar.cs" />
     <Compile Include="Assets\Script\PlayerProjectile.cs" />
+    <Compile Include="Assets\Script\PlayerVessel.cs" />
+    <Compile Include="Assets\Script\Projectiles.cs" />
+    <Compile Include="Assets\Script\Vessels.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/lchen/Desktop/CSC290-Project/Galaxy Invaders/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

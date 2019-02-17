@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerProjectile : IProjectiles{
+public class PlayerProjectile : Projectiles{
     
 
     public PlayerProjectile(int x, int y, int width, int length)

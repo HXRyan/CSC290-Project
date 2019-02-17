@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 568b1bb9e2439db4baeb067921f2a584
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerVessel: {instanceID: 0}
+  - HealthBarSprite: {fileID: 21300000, guid: c6c889e73ffefa44aa40bafdd0a73f7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
